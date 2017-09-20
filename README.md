@@ -1,6 +1,6 @@
 # Vizceral real-time traffic graph
 
-https://github.com/Netflix/vizceral
+http://blog.sflow.com/2017/09/real-time-traffic-visualization-using.html
 
 # To install
 1. Copy files to the sFlow-RT app directory.
