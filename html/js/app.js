@@ -31,10 +31,8 @@ $(function() {
     });
   }
 
-  $(document).ready(function() {
-    poll();
-    $(document).keyup(function(e) {
-      if(viz && e.keyCode == 27) viz.zoomOutViewLevel();
-    });
+  poll();
+  $(document).keyup(function(e) {
+    if(viz && e.keyCode == 27) viz.zoomOutViewLevel();
   });
 });
