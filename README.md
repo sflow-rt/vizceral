@@ -8,6 +8,9 @@ http://blog.sflow.com/2017/09/real-time-traffic-visualization-using.html
 2. Run command: `sflow-rt/get-app.sh sflow-rt vizceral`
 3. Restart sFlow-RT
 
+Alternatively, use the Docker image:
+https://hub.docker.com/r/sflow/vizceral/
+
 # Demo
 Set property -Dvizceral.demo=yes
 
